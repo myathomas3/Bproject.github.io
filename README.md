@@ -2,8 +2,7 @@
 
 <html lang="en">
 <head>
-    <img src="Boxproject logo.png" alt="Your Logo Alt Text" style="width: 150px; height: auto;">
-
+   
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Your Website Title</title>
@@ -18,7 +17,10 @@
 </head>
 <body>
     <header>
-        <h1>The Box Project</h1>
+        <h1>The Box Project
+             <img src="Boxproject logo.png" alt="Your Logo Alt Text" style="width: 150px; height: auto;">
+
+        </h1>
         <nav>
             <ul>
                 <li><a href="#">About</a></li>
