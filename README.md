@@ -1,6 +1,10 @@
 <html lang="en">
 <head>
    <img src="Boxproject logo.png" alt="Your Logo Alt Text" style="width: 150px; height: auto;">
+   <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Carousel with Automatic Transitions</title>
+    <link rel="stylesheet" href="styles.css">
 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -14,7 +18,64 @@
         }
     </style>
 </head>
+
 <body>
+   <div class="carousel-container">
+        <div class="carousel-slide">
+            <img src="image1.jpg" alt="Image 1">
+        </div>
+        <div class="carousel-slide">
+            <img src="image2.jpg" alt="Image 2">
+        </div>
+        <div class="carousel-slide">
+            <img src="image3.jpg" alt="Image 3">
+        </div>
+    </div>
+    <button id="prev">Previous</button>
+    <button id="next">Next</button>
+
+    <script>
+        const prevButton = document.getElementById('prev');
+        const nextButton = document.getElementById('next');
+        const slides = document.querySelectorAll('.carousel-slide');
+        let currentSlide = 0;
+
+        function showSlide(index) {
+            slides.forEach((slide, i) => {
+                slide.style.display = i === index ? 'block' : 'none';
+            });
+        }
+
+        prevButton.addEventListener('click', () => {
+            currentSlide = (currentSlide - 1 + slides.length) % slides.length;
+            showSlide(currentSlide);
+        });
+
+        nextButton.addEventListener('click', () => {
+            currentSlide = (currentSlide + 1) % slides.length;
+            showSlide(currentSlide);
+        });
+
+        function autoAdvance() {
+            currentSlide = (currentSlide + 1) % slides.length;
+            showSlide(currentSlide);
+        }
+
+        // Set an interval for automatic transitions (e.g., every 5 seconds)
+        const interval = setInterval(autoAdvance, 5000);
+
+        // Stop the interval when the user clicks on the "Previous" or "Next" buttons
+        prevButton.addEventListener('click', () => {
+            clearInterval(interval);
+        });
+
+        nextButton.addEventListener('click', () => {
+            clearInterval(interval);
+        });
+
+        // Initial display
+        showSlide(currentSlide);
+    </script>
     <header>
         <h1>The Box Project</h1>
         <nav>
