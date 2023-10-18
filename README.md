@@ -30,6 +30,34 @@
         <div class="carousel-slide">
             <img src="(3).png" alt="Image 3">
         </div>
+         <div class="carousel-slide">
+            <img src="(4).png" alt="Image 3">
+        </div>
+         <div class="carousel-slide">
+            <img src="(5).png" alt="Image 3">
+        </div>
+         <div class="carousel-slide">
+            <img src="(6).png" alt="Image 3">
+        </div>
+         <div class="carousel-slide">
+            <img src="(7).png" alt="Image 3">
+        </div>
+         <div class="carousel-slide">
+            <img src="(8).png" alt="Image 3">
+        </div>
+         <div class="carousel-slide">
+            <img src="(9).png" alt="Image 3">
+        </div>
+         <div class="carousel-slide">
+            <img src="(10).png" alt="Image 3">
+        </div>
+         <div class="carousel-slide">
+            <img src="(11).png" alt="Image 3">
+        </div>
+         <div class="carousel-slide">
+            <img src="(12).png" alt="Image 3">
+        </div>
+      
     </div>
     <button id="prev">Previous</button>
     <button id="next">Next</button>
