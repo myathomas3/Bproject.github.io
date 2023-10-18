@@ -38,3 +38,14 @@ button#prev:hover,
 button#next:hover {
     background-color: #555; 
 
+}
+.caption {
+    position: absolute;
+    bottom: 10px; 
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.7); 
+    color: #fff; 
+    padding: 10px;
+    font-size: 16px;
+}
