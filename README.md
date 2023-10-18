@@ -16,7 +16,7 @@
 </head>
 <body>
     <header>
-        <h1>The box Project</h1>
+        <h1>The Box Project</h1>
         <nav>
             <ul>
                 <li><a href="#">About</a></li>
