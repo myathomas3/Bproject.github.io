@@ -1,0 +1,19 @@
+.carousel-container {
+    display: flex;
+    overflow: hidden;
+    width: 300px; /* Adjust as needed */
+    margin: 0 auto;
+}
+
+.carousel-slide {
+    flex: 0 0 100%;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+button {
+    margin: 10px;
+}
