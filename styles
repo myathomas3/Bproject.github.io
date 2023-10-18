@@ -55,3 +55,21 @@ button#next:hover {
     padding: 10px;
     font-size: 16px;
 }
+.donate-button {
+    display: inline-block;
+    padding: 15px 30px;
+    background: linear-gradient(to bottom, #4CAF50, #45a049); /* Green gradient background */
+    color: #fff; /* Text color */
+    text-decoration: none;
+    border: 2px solid #45a049; /* Green border color */
+    border-radius: 30px; /* Round shape for a bubbled effect */
+    box-shadow: 0 6px 6px rgba(0, 0, 0, 0.1); /* Shadow for a raised look */
+    transition: all 0.3s ease;
+}
+
+.donate-button:hover {
+    background: linear-gradient(to bottom, #45a049, #4CAF50); /* Change gradient on hover */
+    transform: translateY(-2px); /* Slight upward shift on hover */
+}
+
+
