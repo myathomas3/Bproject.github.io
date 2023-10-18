@@ -1,5 +1,5 @@
 
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -19,7 +19,6 @@
         <h1>Welcome to My Website</h1>
         <nav>
             <ul>
-                <li><a href="#">Home</a></li>
                 <li><a href="#">About</a></li>
                 <li><a href="#">Services</a></li>
                 <li><a href="#">Contact</a></li>
@@ -28,8 +27,8 @@
     </header>
     <main>
         <section>
-            <h2>About Us</h2>
-            <p>This is a brief introduction to our website.</p>
+            <h2>Mission</h2>
+            <p>The Box Project offers a unique opportunity to give back. We are distinct because we create supportive, personal relationships directly between a sponsor family and a family in need living in rural America. The Box Project acts as matchmaker, pairing our “sponsor” volunteers with carefully screened individuals or families that need help. The sponsors offer long term, meaningful interactions including encouragement, advice, and boxes of needed supplies about once a month.</p>
         </section>
         <section>
             <h2>Services</h2>
@@ -43,9 +42,9 @@
     <section>
         <h2>Connect with Us</h2>
         <ul class="social-media-list">
-            <li><a href="https://www.facebook.com/YourPage" target="_blank">Facebook</a></li>
-            <li><a href="https://twitter.com/YourTwitter" target="_blank">Twitter</a></li>
-            <li><a href="https://www.instagram.com/YourInstagram" target="_blank">Instagram</a></li>
+            <li><a href="https://www.facebook.com/TBP1962/" target="_blank" class= "facebook-button">Facebook</a></li>
+            <li><a href="http://www.twitter.com/@TBP1962" target="_blank" class= "twitter-button">Twitter</a></li>
+            <li><a href="https://www.youtube.com/channel/UCu-tEnjTcYvVlTRcvvCJw3g" target="_blank" class= "youtube-button">Youtube</a></li>
         </ul>
     </section>
     <footer>
