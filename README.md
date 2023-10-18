@@ -1,6 +1,10 @@
 <html lang="en">
 <head>
    <img src="Boxproject logo.png" alt="Your Logo Alt Text" style="width: 150px; height: auto;">
+   <header>
+    <a class="donate-button" href="https://your-donation-link.com">Donate</a>
+</header>
+
    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Image Carousel with Automatic Transitions</title>
