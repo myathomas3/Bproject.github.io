@@ -22,13 +22,13 @@
 <body>
    <div class="carousel-container">
         <div class="carousel-slide">
-            <img src="image1.jpg" alt="Image 1">
+            <img src="(1).png" alt="Image 1">
         </div>
         <div class="carousel-slide">
-            <img src="image2.jpg" alt="Image 2">
+            <img src="(2).png" alt="Image 2">
         </div>
         <div class="carousel-slide">
-            <img src="image3.jpg" alt="Image 3">
+            <img src="(3).png" alt="Image 3">
         </div>
     </div>
     <button id="prev">Previous</button>
