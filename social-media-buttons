@@ -1,5 +1,5 @@
 /* Styles for social media buttons */
-social-media-buttons {
+.social-media-buttons {
     text-align: center;
 }
 
