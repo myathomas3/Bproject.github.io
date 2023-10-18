@@ -21,3 +21,20 @@ img {
 button {
     margin: 10px;
 }
+button#prev,
+button#next {
+    font-family: Arial, sans-serif; 
+    font-size: 16px; 
+    background-color: #333; 
+    color: #fff; 
+    padding: 10px 20px; 
+    border: none; 
+    border-radius: 5px; 
+    cursor: pointer;
+}
+
+
+button#prev:hover,
+button#next:hover {
+    background-color: #555; 
+
