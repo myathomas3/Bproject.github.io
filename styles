@@ -1,20 +1,20 @@
 .carousel-container {
     display: flex;
     overflow: hidden;
-    width: 300px; /* Adjust as needed */
+    width: 150px; /* Adjust as needed */
     margin: 0 auto;
 }
 
 .carousel-slide {
-    flex: 0 0 100%;
-    max-width: 100%;
+    flex: 0 0 50%;
+    max-width: 50%;
     text-align: center; 
 }
 
 img {
-   max-width: 100%; 
+   max-width: 50%; 
     height: auto; 
-    max-height: 300px; 
+    max-height: 150px; 
     margin: 0 auto;
 }
 
