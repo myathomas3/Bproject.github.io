@@ -41,10 +41,17 @@
     </main>
     <section>
         <h2>Connect with Us</h2>
-        <ul class="social-media-buttons">
-            <li><a href="https://www.facebook.com/TBP1962/" target="_blank" class= "facebook-button">Facebook</a></li>
-            <li><a href="http://www.twitter.com/@TBP1962" target="_blank" class= "twitter-button">Twitter</a></li>
-            <li><a href="https://www.youtube.com/channel/UCu-tEnjTcYvVlTRcvvCJw3g" target="_blank" class= "youtube-button">Youtube</a></li>
+        <div id="badges">
+  <a href="https://www.facebook.com/TBP1962/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="facebook Badge"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCu-tEnjTcYvVlTRcvvCJw3g">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="http://www.twitter.com/@TBP1962">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
         </ul>
     </section>
     <footer>
