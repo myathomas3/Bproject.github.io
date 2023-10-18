@@ -1,13 +1,13 @@
 .carousel-container {
     display: flex;
     overflow: hidden;
-    width: 75px; /* Adjust as needed */
+    width: 25px; /* Adjust as needed */
     margin: 0 auto;
 }
 
 @media (max-width: 600px) {
 .carousel-slide {
-    flex: 0 0 25%;
+    flex: 0 0 10%;
     max-width: 25%;
     text-align: center; 
   }
@@ -16,7 +16,7 @@
 img {
    max-width: 25%; 
     height: auto; 
-    max-height: 75px; 
+    max-height: 10px; 
     margin: 0 auto;
 }
 
