@@ -23,39 +23,51 @@
    <div class="carousel-container">
         <div class="carousel-slide">
             <img src="(1).png" alt="Image 1">
+            <div class="caption">Caption for Image 2</div>
         </div>
         <div class="carousel-slide">
             <img src="(2).png" alt="Image 2">
+            <div class="caption">Caption for Image 2</div>
         </div>
         <div class="carousel-slide">
             <img src="(3).png" alt="Image 3">
+            <div class="caption">Caption for Image 2</div>
         </div>
          <div class="carousel-slide">
-            <img src="(4).png" alt="Image 3">
+            <img src="(4).png" alt="Image 4">
+             <div class="caption">Caption for Image 2</div>
         </div>
          <div class="carousel-slide">
-            <img src="(5).png" alt="Image 3">
+            <img src="(5).png" alt="Image 5">
+             <div class="caption">Caption for Image 2</div>
         </div>
          <div class="carousel-slide">
-            <img src="(6).png" alt="Image 3">
+            <img src="(6).png" alt="Image 6">
+             <div class="caption">Caption for Image 2</div>
         </div>
          <div class="carousel-slide">
-            <img src="(7).png" alt="Image 3">
+            <img src="(7).png" alt="Image 7">
+             <div class="caption">Caption for Image 2</div>
         </div>
          <div class="carousel-slide">
-            <img src="(8).png" alt="Image 3">
+            <img src="(8).png" alt="Image 8">
+             <div class="caption">Caption for Image 2</div>
         </div>
          <div class="carousel-slide">
-            <img src="(9).png" alt="Image 3">
+            <img src="(9).png" alt="Image 9">
+             <div class="caption">Caption for Image 2</div>
         </div>
          <div class="carousel-slide">
-            <img src="(10).png" alt="Image 3">
+            <img src="(10).png" alt="Image 10">
+             <div class="caption">Caption for Image 2</div>
         </div>
          <div class="carousel-slide">
-            <img src="(11).png" alt="Image 3">
+            <img src="(11).png" alt="Image 11">
+             <div class="caption">Caption for Image 2</div>
         </div>
          <div class="carousel-slide">
-            <img src="(12).png" alt="Image 3">
+            <img src="(12).png" alt="Image 12">
+            <div class="caption">Caption for Image 2</div>
         </div>
       
     </div>
