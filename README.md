@@ -43,7 +43,7 @@
         <h2>Connect with Us</h2>
         <div id="badges">
   <a href="https://www.facebook.com/TBP1962/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="facebook Badge"/>
+    <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UCu-tEnjTcYvVlTRcvvCJw3g">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
