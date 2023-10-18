@@ -41,7 +41,7 @@
     </main>
     <section>
         <h2>Connect with Us</h2>
-        <ul class="social-media-list">
+        <ul class="social-media-buttons">
             <li><a href="https://www.facebook.com/TBP1962/" target="_blank" class= "facebook-button">Facebook</a></li>
             <li><a href="http://www.twitter.com/@TBP1962" target="_blank" class= "twitter-button">Twitter</a></li>
             <li><a href="https://www.youtube.com/channel/UCu-tEnjTcYvVlTRcvvCJw3g" target="_blank" class= "youtube-button">Youtube</a></li>
