@@ -90,7 +90,7 @@
         }
 
         // Set an interval for automatic transitions (e.g., every 5 seconds)
-        const interval = setInterval(autoAdvance, 5000);
+        const interval = setInterval(autoAdvance, 3000);
 
         // Stop the interval when the user clicks on the "Previous" or "Next" buttons
         prevButton.addEventListener('click', () => {
