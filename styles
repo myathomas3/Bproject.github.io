@@ -65,6 +65,9 @@ button#next:hover {
     border-radius: 30px; /* Round shape for a bubbled effect */
     box-shadow: 0 6px 6px rgba(0, 0, 0, 0.1); /* Shadow for a raised look */
     transition: all 0.3s ease;
+    position: absolute;
+    top: 10px;
+    right: 10px;
 }
 
 .donate-button:hover {
